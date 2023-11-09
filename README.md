@@ -10,9 +10,21 @@
 - Multitasking 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+#### BSc (Honors) in Biotechnology(2023-2027)
+- Srilankan Institute Of Information Technology (SLIIT)
+
+#### G.C.E Ordinary Level (2018)
+- English -                 A
+- Sinhala-                  A
+- Religion-                 A 
+- Science-                  A
+- History-                  A 
+- Citizenship Education-    A
+- Information Technology-   A
+- Dancing-                  B
+- Mathematics-              B
+
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
