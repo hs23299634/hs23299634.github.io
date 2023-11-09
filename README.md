@@ -1,6 +1,6 @@
 # **Ridmi Imasha**
 
-## contact
+## contact Information
 
 
     - 076-9186588
