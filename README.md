@@ -1,72 +1,57 @@
-# **Ridmi Imasha**
+# Ridmi Imasha
 
 <img src="https://github.com/hs23299634/hs23299634.github.io/blob/main/assests/WhatsApp%20Image%202023-11-09%20at%2019.22.49_31ac43df.jpg?raw=true" width="200">
 
+- Phone: 076-9186588
+- Email: ri.pitumpe@gmail.com
+- Address: No. 26, Millate, Kiridiwela.
 
+### Overview
+As an inquisitive and highly motivated undergraduate in Biotechnology, I aspire to pursue a career as an academic and researcher in the field of Molecular Life Sciences.
 
-    - 076-9186588
-    
-
-    - ri.pitumpe@gmail.com
-
-    
-    - No.26, Millate, Kiridiwela.
-
-    
-#### As an inquisitive and highly motivated undergraduate in Biotechnology, I aspire to pursue a career as an academic and researcher in the field of Molecular Life Sciences.
-
-## Skills: 
+## Skills
 - Creative thinking
 - Ability to work under pressure
-- Ability to meet deadlines
-- Great communication skills
+- Meeting deadlines
+- Excellent communication skills
 - Problem-solving abilities
-- Excellent computer proficiency
-- Multitasking 
+- Proficient in computer skills
+- Multitasking
 
-## Educational Qualifications 
+## Educational Qualifications
 
-### _Higher Education_
+### Higher Education
+#### BSc (Honors) in Biotechnology (2023-2027)
+- Sri Lankan Institute of Information Technology (SLIIT)
 
-#### BSc (Honors) in Biotechnology(2023-2027)
-- Srilankan Institute Of Information Technology (SLIIT)
-
-### _Secondary Education_
-
+### Secondary Education
 #### G.C.E Ordinary Level (2018)
-- English -                 A
-- Sinhala-                  A
-- Religion-                 A 
-- Science-                  A
-- History-                  A 
-- Citizenship Education-    A
-- Information Technology-   A
-- Dancing-                  B
-- Mathematics-              B
+- English - A
+- Sinhala - A
+- Religion - A 
+- Science - A
+- History - A 
+- Citizenship Education - A
+- Information Technology - A
+- Dancing - B
+- Mathematics - B
 
 #### G.C.E Advanced Level (2021)
-- Biology-    B
-- Chemistry-  C
-- Physics-    S
+- Biology - B
+- Chemistry - C
+- Physics - S
 
-## Professional qualifications
-- Training program in molecular  biological techniques 
+## Professional Qualifications
+- Training program in molecular biological techniques 
 - Institute of Biochemistry, Molecular Biology & Biotechnology (IBMBB)
 
-## Extra curricular activities
-- Active member of the athletics team of Holy Cross College Gampaha
-- Active member of the music club of Holy Cross College Gampaha
+## Extracurricular Activities
+- Active member of the athletics team at Holy Cross College Gampaha
+- Active member of the music club at Holy Cross College Gampaha
 
-## work experience
-- small business Founder/Owner
-- Cozy.Nooks.lk
+## Work Experience
+- Founder/Owner of small business - Cozy.Nooks.lk
 
-## Language skills
+## Language Skills
 - Sinhala
 - English
-
-      
-
-
-
-
