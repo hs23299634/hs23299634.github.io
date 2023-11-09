@@ -4,7 +4,7 @@
 BSc (Honors) in Biotechnology(2023-2027)
 Srilankan Institute Of Information Technology (SLIIT)
 
-G.C.E Ordinary Level (2018)
+<u>G.C.E Ordinary Level (2018)</u>
 
 English -                 A
 Sinhala-                  A
