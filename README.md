@@ -1,4 +1,4 @@
-## **Ridmi Imasha**
+# **Ridmi Imasha**
 
 ## contact
 
@@ -14,7 +14,7 @@
     
 #### As an inquisitive and highly motivated undergraduate in Biotechnology, I aspire to pursue a career as an academic and researcher in the field of Molecular Life Sciences.
 
-####  Skills: 
+## Skills: 
 - Creative thinking
 - Ability to work under pressure
 - Ability to meet deadlines
