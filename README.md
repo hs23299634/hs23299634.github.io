@@ -1,8 +1,18 @@
-# Ridmi Imasha
+## **Ridmi Imasha**
+
+## contact
+
+
+    - 076-9186588
+    
+
+    - ri.pitumpe@gmail.com
+
+    
+    - No.26, Millate, Kiridiwela.
+
+    
 #### As an inquisitive and highly motivated undergraduate in Biotechnology, I aspire to pursue a career as an academic and researcher in the field of Molecular Life Sciences.
-
-
-# Undergraduate
 
 ####  Skills: 
 - Creative thinking
@@ -13,9 +23,14 @@
 - Excellent computer proficiency
 - Multitasking 
 
-## Education
+## Educational Qualifications 
+
+### _Higher Education_
+
 #### BSc (Honors) in Biotechnology(2023-2027)
 - Srilankan Institute Of Information Technology (SLIIT)
+
+### _Secondary Education_
 
 #### G.C.E Ordinary Level (2018)
 - English -                 A
