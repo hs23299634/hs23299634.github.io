@@ -1,6 +1,6 @@
 # **Ridmi Imasha**
 
-<img src="https://github.com/hs23299634/hs23299634.github.io/blob/main/assests/WhatsApp%20Image%202023-11-09%20at%2019.22.49_31ac43df.jpg?raw=true" width="300">
+<img src="https://github.com/hs23299634/hs23299634.github.io/blob/main/assests/WhatsApp%20Image%202023-11-09%20at%2019.22.49_31ac43df.jpg?raw=true" width="200">
 
 
 
