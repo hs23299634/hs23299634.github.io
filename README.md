@@ -1,6 +1,6 @@
 # Ridmi Imasha
 
-<img src="https://github.com/hs23299634/hs23299634.github.io/blob/main/assests/profile_photo.jpg?raw=true" width="200">
+<img src="https://github.com/hs23299634/hs23299634.github.io/blob/main/assests/profile_photo.jpg?raw=true" width="200" height ="200">
 
 - Phone: 076-9186588
 - Email: ri.pitumpe@gmail.com
