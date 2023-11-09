@@ -32,3 +32,23 @@ School prize giving  (2016,2017,2018,2019,2020,2021)
 school sports meet running event certifications
 
 # Extra curricular activities
+Active member of the athletics team of Holy Cross College Gampaha
+Active member of the music club of Holy Cross College Gampaha
+
+# work experience
+small business Founder/Owner
+Cozy.Nooks.lk                    
+
+# Language skills
+Sinhala
+English
+
+# Skills
+Creative thinking
+Ability to work under pressure
+Ability to meet deadlines
+Great communication skills
+Problem-solving abilities
+Excellent computer proficiency
+Multitasking 
+
