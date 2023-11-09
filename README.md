@@ -25,3 +25,9 @@ Physics-    S
 # Professional qualifications
 Training program in molecular  biological techniques 
 Institute of Biochemistry, Molecular Biology & Biotechnology (IBMBB)
+
+#Awards and certifications
+
+school level awards
+School prize giving  (2016,2017,2018,2019,2020,2021)
+school sports meet running event certifications
