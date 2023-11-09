@@ -56,4 +56,4 @@ As an inquisitive and highly motivated undergraduate in Biotechnology, I aspire 
 - Sinhala
 - English
 
-  [link text](https://github.com/hs23299634/hs23299634.github.io/blob/main/assests/resume.pdf)
+  - [resume ](https://github.com/hs23299634/hs23299634.github.io/blob/main/assests/resume.pdf)
