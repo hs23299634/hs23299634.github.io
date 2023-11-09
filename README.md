@@ -1,9 +1,5 @@
-title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
-
+# Ridmi Imasha
+#### As an inquisitive and highly motivated undergraduate in Biotechnology, I aspire to pursue a career as an academic and researcher in the field of Molecular Life Sciences.
 
 
 # Undergraduate
