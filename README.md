@@ -1,13 +1,13 @@
 # Undergraduate
 
 ####  Skills: 
--Creative thinking
--Ability to work under pressure
--Ability to meet deadlines
--Great communication skills
--Problem-solving abilities
--Excellent computer proficiency
--Multitasking 
+- Creative thinking
+- Ability to work under pressure
+- Ability to meet deadlines
+- Great communication skills
+- Problem-solving abilities
+- Excellent computer proficiency
+- Multitasking 
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
